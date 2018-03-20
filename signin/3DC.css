@@ -1,0 +1,13 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box；
+}
+a{
+  text-decoration:none;
+}
+header .login{
+  font-size:20px;
+  margin-left:100px;
+
+}
